@@ -63,6 +63,10 @@ CS이론을 공부하기 위한 효과적인 방법 중 하나는
 
 - https://sketchfab.com/3d-models/richards-art-gallery-audio-tour-0e3e19faa6474fd5974e6a7ed1b221d8
 
+
+![image](https://github.com/user-attachments/assets/22a99555-b2d3-4cd6-a6c2-6169d430f34e)
+
+
 #### Concepts
 
 거실(로비)이 하나 있고, 프로젝트마다 하나의 방을 가집니다.
